@@ -1,1 +1,1 @@
-bot : python3 f3.py
+bot: python3 f3.py
